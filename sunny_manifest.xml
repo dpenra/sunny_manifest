@@ -25,6 +25,7 @@
         <project path="vendor/bcr" name="Chaitanyakm/vendor_bcr" remote="github" revision="main" />
         <project path="vendor/xiaomi/mojito-leicacamera" name="dpenra/android_vendor_xiaomi_mojito-leicacamera" remote="gitlab" revision="main" />
         <project path="vendor/xiaomi/miui-apps" name="dpenra-apps/vendor/xiaomi/miui-apps" remote="github" revision="main" />
+        <project path="vendor" name="dpenra-apps/lineage_priv" remote="github" revision="main" />
         <remove-project name="vendor_lineage" />
         <project path="vendor/lineage" name="dpenra-sunny/android_vendor_lineage" remote="github" revision="fourteen" clone-depth="1" />
 
