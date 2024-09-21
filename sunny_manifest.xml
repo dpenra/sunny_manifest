@@ -39,7 +39,6 @@
         <!--Removing-project-->
         <remove-project name="hardware_qcom-caf_sm8150_media" />
         <project path="hardware/qcom-caf/sm8150/media" name="dpenra-sunny/hardware_qcom-caf_sm8150_media" remote="github" revision="fourteen" />
-                
         <remove-project name="vendor_lineage" />
         <project path="vendor/lineage" name="dpenra-sunny/android_vendor_lineage" remote="github" revision="fourteen" clone-depth="1" />
 
